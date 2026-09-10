@@ -1,0 +1,5 @@
+﻿Method,Convergence_Multiplier_x,Speedup_vs_LCS_x,Error_within_1pct_IPs_pct,Error_within_0.1pct_IPs_pct,Physical_Consistency_within_3_NR_iterations_pct
+LCS (CPFE),1.0,1.0,100.0,100.0,100.0
+DLNR (CPFE),32.0,4.36,99.86,97.11,100.0
+DLNR+ (CPFE),32.0,8.02,99.52,97.32,100.0
+Pure LSTM,,184.58,76.43,31.66,1.498844
