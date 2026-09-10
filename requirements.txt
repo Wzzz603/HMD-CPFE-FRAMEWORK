@@ -1,0 +1,5 @@
+# Core Python dependencies used by the public workflow
+numpy
+pandas
+h5py
+torch
